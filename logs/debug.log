@@ -1,0 +1,22 @@
+2019-05-17 22:23:39 [main] INFO  c.e.l.L.LoggerDemoApplication - Starting LoggerDemoApplication on Dell-PC with PID 11008 (D:\Lambda-Workspace\LoggerDemo\target\classes started by Dell in D:\Lambda-Workspace\LoggerDemo)
+2019-05-17 22:23:39 [main] DEBUG c.e.l.L.LoggerDemoApplication - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-05-17 22:23:39 [main] INFO  c.e.l.L.LoggerDemoApplication - No active profile set, falling back to default profiles: default
+2019-05-17 22:23:42 [main] INFO  c.e.l.L.LoggerDemoApplication - Started LoggerDemoApplication in 3.783 seconds (JVM running for 5.901)
+2019-05-17 22:23:42 [main] INFO  c.e.l.L.LoggerDemoApplication - This is information
+2019-05-17 22:23:42 [main] DEBUG c.e.l.L.LoggerDemoApplication - This is debug
+2019-05-17 22:23:42 [main] ERROR c.e.l.L.LoggerDemoApplication - This is error
+2019-05-17 22:25:09 [main] INFO  c.e.l.L.LoggerDemoApplication - Starting LoggerDemoApplication on Dell-PC with PID 7572 (D:\Lambda-Workspace\LoggerDemo\target\classes started by Dell in D:\Lambda-Workspace\LoggerDemo)
+2019-05-17 22:25:09 [main] DEBUG c.e.l.L.LoggerDemoApplication - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-05-17 22:25:09 [main] INFO  c.e.l.L.LoggerDemoApplication - No active profile set, falling back to default profiles: default
+2019-05-17 22:25:12 [main] INFO  c.e.l.L.LoggerDemoApplication - Started LoggerDemoApplication in 3.341 seconds (JVM running for 5.415)
+2019-05-17 22:25:12 [main] INFO  c.e.l.L.LoggerDemoApplication - This is information
+2019-05-17 22:25:12 [main] DEBUG c.e.l.L.LoggerDemoApplication - This is debug
+2019-05-17 22:25:12 [main] ERROR c.e.l.L.LoggerDemoApplication - This is error
+2019-05-17 22:37:38 [main] INFO  c.e.logger.LoggerDemoApplication - Starting LoggerDemoApplication on Dell-PC with PID 6588 (D:\Lambda-Workspace\LoggerDemo\target\classes started by Dell in D:\Lambda-Workspace\LoggerDemo)
+2019-05-17 22:37:38 [main] DEBUG c.e.logger.LoggerDemoApplication - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-05-17 22:37:38 [main] INFO  c.e.logger.LoggerDemoApplication - No active profile set, falling back to default profiles: default
+2019-05-17 22:37:41 [main] INFO  c.e.logger.LoggerDemoApplication - Started LoggerDemoApplication in 3.866 seconds (JVM running for 5.853)
+2019-05-17 22:37:41 [main] INFO  c.e.logger.LoggerDemoApplication - This is information
+2019-05-17 22:37:41 [main] DEBUG c.e.logger.LoggerDemoApplication - This is debug
+2019-05-17 22:37:41 [main] ERROR c.e.logger.LoggerDemoApplication - This is error
+2019-05-17 22:37:59 [http-nio-8080-exec-1] INFO  c.e.logger.rest.RestApiController - ===================inside API check ===================
